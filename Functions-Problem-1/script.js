@@ -15,3 +15,5 @@ var vowelString = 'now you see it';
 const stringArray = vowelString.split("");
 
 var numberOfVowels = 0;
+
+const vowelArray = [a, e, i, o, u];
