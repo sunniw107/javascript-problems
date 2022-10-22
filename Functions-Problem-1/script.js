@@ -13,3 +13,5 @@ step 8: return the numberOfVowels
 var vowelString = 'now you see it';
 
 const stringArray = vowelString.split("");
+
+var numberOfVowels = 0;
