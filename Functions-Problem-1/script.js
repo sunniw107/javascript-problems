@@ -17,3 +17,7 @@ const stringArray = vowelString.split("");
 var numberOfVowels = 0;
 
 const vowelArray = [a, e, i, o, u];
+
+for (let numberOfVowels = 0; numberOfVowels < vowelArray.length; numberOfVowels++) {
+	
+}
