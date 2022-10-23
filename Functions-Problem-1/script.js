@@ -9,3 +9,8 @@ step 5: return the longest word
 var matrixString = 'you been living in a dream Neo';
 
 var matrixArray = matrixString.split(" ");
+
+for (let i = 0; i < matrixArray.length; 
+	matrixArray.length = matrixArray.length + 1) {
+	
+}
