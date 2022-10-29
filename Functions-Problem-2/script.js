@@ -14,7 +14,7 @@ function findthevowels(vowels) {
 	for (let i = 0; i < letterArray.length; i++) {
 
 //step 6: check the letters in our loop for a vowel
-	if (vowelArray.includes(letterArray[i]); {
+	if (vowelArray.includes(letterArray[i])); {
 
 //step 7: increase the count variable by one for every vowel.		
 		vowelCount += 1;	
