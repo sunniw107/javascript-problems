@@ -1,5 +1,5 @@
 //step 1: define a JavaScript Function that accepts a string as a parameter
-function findthevowels(vowels) {
+function findthevowels(stringOfWords) {
 
 //step 2: define a variable that knows what a vowel is using a vowel array
 	const vowelArray = ["a", "e", "i", "o", "u"];
@@ -8,7 +8,7 @@ function findthevowels(vowels) {
 	let vowelCount = 0;
 
 //step 4: split the string by letters into an array and store it in a variable
-	const letterArray = vowels.toLowerCase().split("");
+	const letterArray = stringOfWords.toLowerCase().split("");
 
 //step 5: start looping through an array of letters
 	for (let i = 0; i < letterArray.length; i++) {
