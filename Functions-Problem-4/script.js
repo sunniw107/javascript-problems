@@ -1,5 +1,5 @@
-//step 1: create a function that accepts a string as a parameter.
-function fizzBuzz(multiplesOfFizzBuzz) {;
+//step 1: create a function name to recall function
+function fizzBuzz() {;
 //step 2: create a loop that counts through 1 - 100
 	for (let i = 1; i < 100; i++) {
 //step 3: create a statement for the words: "Fizz" & "Buzz" to be printed from.
@@ -17,4 +17,4 @@ function fizzBuzz(multiplesOfFizzBuzz) {;
 	}
 }
 
-fizzBuzz(multiplesOfFizzBuzz);
+fizzBuzz();
