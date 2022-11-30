@@ -1,5 +1,5 @@
 //step 1: define a function that accepts two arguments a string and a letter
-function letterCount(stringForLetters, letter){
+function letterCount(stringForLetters, letter) {
 	let letterCount = 0
 //step 2: split the string into an array of letters
 	let letterArray = stringForLetters.split("");
